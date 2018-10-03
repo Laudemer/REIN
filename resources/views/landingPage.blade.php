@@ -132,7 +132,7 @@
           <ul>
             <li><a onclick="openAbout()">About</a></li>
             <li><a onclick="openServices()">Services</a></li>
-            <li><a onclick="openContact()"></a>Contact Uss</li>
+            <li><a onclick="openContact()"></a>Contact Us</li>
             <li><a onclick="openBePartner()">Be A Partner</a></li>
 
           </ul>
